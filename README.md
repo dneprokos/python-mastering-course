@@ -1,4 +1,4 @@
-# Workshop.WebDriver.Basics
+# Complete Python Mastering
 
 ![main image](/images/python_main.png)
 
