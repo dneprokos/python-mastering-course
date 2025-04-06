@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 requests = "*"
+beautifulsoup4 = "*"
+selenium = "*"
+webdriver-manager = "*"
+pypdf2 = "*"
+openpyxl = "*"
+numpy = "*"
 
 [dev-packages]
 
